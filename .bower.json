@@ -1,0 +1,28 @@
+{
+  "name": "wd-bootstrap-datetimepicker",
+  "main": [
+    "js/bootstrap-datetimepicker.js",
+    "css/bootstrap-datetimepicker.css"
+  ],
+  "ignore": [
+    "build",
+    "sample in bootstrap v2",
+    "sample in bootstrap v3",
+    "screenshot",
+    "tests",
+    ".gitattributes",
+    ".gitignore",
+    ".travis.yml",
+    "minify.sh"
+  ],
+  "version": "1.0.2",
+  "_release": "1.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.0.2",
+    "commit": "6d1a8bc57023d9bddec1987e8e7c25462f6ca060"
+  },
+  "_source": "https://git.mapbar.com/webfrontend/wd-bootstrap-datetimepicker.git",
+  "_target": "1.0.2",
+  "_originalSource": "https://git.mapbar.com/webfrontend/wd-bootstrap-datetimepicker.git"
+}
